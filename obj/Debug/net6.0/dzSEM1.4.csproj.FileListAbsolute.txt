@@ -1,0 +1,15 @@
+C:\Users\sasha\Desktop\dzSEM1.4\bin\Debug\net6.0\dzSEM1.4.exe
+C:\Users\sasha\Desktop\dzSEM1.4\bin\Debug\net6.0\dzSEM1.4.deps.json
+C:\Users\sasha\Desktop\dzSEM1.4\bin\Debug\net6.0\dzSEM1.4.runtimeconfig.json
+C:\Users\sasha\Desktop\dzSEM1.4\bin\Debug\net6.0\dzSEM1.4.dll
+C:\Users\sasha\Desktop\dzSEM1.4\bin\Debug\net6.0\dzSEM1.4.pdb
+C:\Users\sasha\Desktop\dzSEM1.4\obj\Debug\net6.0\dzSEM1.4.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\dzSEM1.4\obj\Debug\net6.0\dzSEM1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\Desktop\dzSEM1.4\obj\Debug\net6.0\dzSEM1.4.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\dzSEM1.4\obj\Debug\net6.0\dzSEM1.4.AssemblyInfo.cs
+C:\Users\sasha\Desktop\dzSEM1.4\obj\Debug\net6.0\dzSEM1.4.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\dzSEM1.4\obj\Debug\net6.0\dzSEM1.4.dll
+C:\Users\sasha\Desktop\dzSEM1.4\obj\Debug\net6.0\refint\dzSEM1.4.dll
+C:\Users\sasha\Desktop\dzSEM1.4\obj\Debug\net6.0\dzSEM1.4.pdb
+C:\Users\sasha\Desktop\dzSEM1.4\obj\Debug\net6.0\dzSEM1.4.genruntimeconfig.cache
+C:\Users\sasha\Desktop\dzSEM1.4\obj\Debug\net6.0\ref\dzSEM1.4.dll
